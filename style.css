@@ -1,0 +1,14 @@
+
+.mydiv1 {
+    background-color:lightgray;
+     width: 300px;
+      border: 15px solid green;
+     padding: 50px;
+     margin:30px auto;
+    color:black;
+}
+
+h2{
+
+    color:red;
+}
